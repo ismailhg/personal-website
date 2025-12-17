@@ -3,6 +3,7 @@ import axios from "axios";
 import { toast } from "react-toastify";
 import githubIcon from "../assets/github.svg";
 import linkedinIcon from "../assets/linked-in.svg";
+import profileImg from "../assets/pp.jpg";
 
 const Hero = () => {
   const { content } = useLanguage();
@@ -83,7 +84,7 @@ const Hero = () => {
         <div className="flex-1 w-full">
           <div className="relative overflow-hidden">
             <img
-              src="/src/assets/pp.jpg"
+              src={profileImg}
               alt="Profil foto"
               className="h-50 sm:h-80 md:h-110 w-full object-cover rounded-[18px]"
             />
