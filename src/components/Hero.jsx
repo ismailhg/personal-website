@@ -39,7 +39,7 @@ const Hero = () => {
             {content.hero.title}
           </h1>
 
-          <p className="max-w-[152] text-lg leading-7 text-[#6B7280] dark:text-white">
+          <p className="max-w-152 text-lg leading-7 text-[#6B7280] dark:text-white">
             {content.hero.description}
           </p>
 
