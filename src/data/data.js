@@ -22,17 +22,17 @@ export const data = {
         {
           name: "Java Script",
           description:
-            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "Modern web uygulamaları geliştirmek için JavaScript kullanıyorum. Temiz, okunabilir ve sürdürülebilir kod yazmaya özen gösteriyorum.",
         },
         {
           name: "React.Js",
           description:
-            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "React ile component tabanlı, yeniden kullanılabilir ve performanslı kullanıcı arayüzleri geliştiriyorum.",
         },
         {
           name: "Node.Js",
           description:
-            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "Node.js ile REST API’ler oluşturarak backend ve frontend arasında sağlam veri akışı sağlıyorum.",
         },
       ],
     },
@@ -50,8 +50,8 @@ export const data = {
         role: { label: "Tercih Ettiği Rol", value: "Frontend, UI" },
       },
       aboutMe: [
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.",
-        "Mnima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!",
+        "2001 yılında Almanya'nın Stuttgart şehrinde doğdum. 2009 yılında Türkiye'ye taşındım. Alman vatandaşıyım. Uludağ Üniversitesi Bilgisayar Mühendisliği mezunuyum.",
+        "Şuanda da Workintech de kendimi geliştirmek için FullStack bir eğitim programına katıldım.",
       ],
     },
     projects: {
@@ -111,17 +111,17 @@ export const data = {
         {
           name: "Java Script",
           description:
-            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "I use JavaScript to build modern web applications, focusing on clean, readable, and maintainable code.",
         },
         {
           name: "React.Js",
           description:
-            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "I develop component-based, reusable, and high-performance user interfaces using React.",
         },
         {
           name: "Node.Js",
           description:
-            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "I build REST APIs with Node.js to ensure a solid and reliable data flow between frontend and backend.",
         },
       ],
     },
@@ -139,8 +139,8 @@ export const data = {
         role: { label: "Preferred Role", value: "Frontend, UI" },
       },
       aboutMe: [
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.",
-        "Mnima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!",
+        "I was born in 2001 in Stuttgart, Germany. I moved to Turkey in 2009. I am a German citizen and a graduate of Uludağ University with a degree in Computer Engineering.",
+        "I am currently participating in a Full Stack development program at Workintech to further improve my skills.",
       ],
     },
     projects: {
