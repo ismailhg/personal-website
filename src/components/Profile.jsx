@@ -13,7 +13,7 @@ const Profile = () => {
           </h2>
         </div>
 
-        <div className="grid gap-45 md:grid-cols-[420px_minmax(0,1fr)]">
+        <div className="grid gap-15 md:gap-45 md:grid-cols-[420px_minmax(0,1fr)]">
           <div className="space-y-6">
             <h3 className="text-[30px] font-medium text-[#4338CA] dark:text-[#BAB2E7]">
               {content.profile.basicInfoTitle}
